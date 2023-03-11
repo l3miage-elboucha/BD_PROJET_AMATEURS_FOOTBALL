@@ -1,0 +1,13 @@
+INSERT INTO Trophees VALUES ("Champions League", 20, "collectif");
+INSERT INTO Trophees VALUES ("Europa League", 9.73, "collectif");
+INSERT INTO Trophees VALUES ("Conference League", 15, "collectif");
+INSERT INTO Trophees VALUES ("La Liga", 50, "collectif");
+INSERT INTO Trophees VALUES ("Ligue 1", 48, "collectif");
+INSERT INTO Trophees VALUES ("Scudetto", 23.4, "collectif");
+INSERT INTO Trophees VALUES ("Premier League", 153.9, "collectif");
+INSERT INTO Trophees VALUES ("BOTOLA PRO", 2.8, "collectif");
+INSERT INTO Trophees VALUES ("Ballon d'Or", 0.02, "individuel");
+INSERT INTO Trophees VALUES ("FIFA World Player of the Year", 0.03, "individuel");
+INSERT INTO Trophees VALUES ("Golden Boy", 0.01, "individuel");
+INSERT INTO Trophees VALUES ("FIFA Puskas Award", 0.04, "individuel");
+INSERT INTO Trophees VALUES ("Golden Shoe", 0.02, "individuel");

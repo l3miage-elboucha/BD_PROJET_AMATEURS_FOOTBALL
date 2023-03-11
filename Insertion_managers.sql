@@ -1,0 +1,11 @@
+INSERT INTO Managers VALUES ("TAOUSSI", "Rachid", 78400);
+INSERT INTO Managers VALUES ("XAVI", "Hernandez", 102680);
+INSERT INTO Managers VALUES ("CARLO", "Ancelotti", 80620);
+INSERT INTO Managers VALUES ("MAURICIO", "Pochettino", 65680);
+INSERT INTO Managers VALUES ("SIMEONE", "Simeone", 78680);
+INSERT INTO Managers VALUES ("DAN HAAG", "Eric", 59680);
+INSERT INTO Managers VALUES ("MASSIMILIANO", "Allegri", 80710);
+INSERT INTO Managers VALUES ("GUARDIOLA", "Pep", 109500);
+INSERT INTO Managers VALUES ("KLOPP", "Jurgen", 71810);
+INSERT INTO Managers VALUES ("TUCHEL", "Thomas", 69420);
+INSERT INTO Managers VALUES ("REGRAGUI", "Walid", 88400);
